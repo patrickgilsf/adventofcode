@@ -1,4 +1,4 @@
-import { str } from "./day1config.js"
+import { str } from "./configs/day1config.js"
 const arr = str.split(/\n/g);
 
 const main = () => {
