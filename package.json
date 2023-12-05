@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "\"advent calendar of story problems\"",
+  "main": "day1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickgilsf/adventofcode.git"
+  },
+  "author": "PG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickgilsf/adventofcode/issues"
+  },
+  "homepage": "https://github.com/patrickgilsf/adventofcode#readme"
+}
